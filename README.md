@@ -31,7 +31,7 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Iamdivyeshh/Iamdivyeshh/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/krutik-nena-a82a80236/" target="blank">
+ <a href="https://www.linkedin.com/in/krutik-naina-a82a80236/" target="blank">
   <img align="center" alt="Krutik Naina LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/krutik_nena/" target="blank">
